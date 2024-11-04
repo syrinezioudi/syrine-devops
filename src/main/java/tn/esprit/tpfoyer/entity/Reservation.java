@@ -42,6 +42,7 @@ public class Reservation {
 
     /*@ToString.Exclude
     @JsonIgnore*/
+    ///////////
 
 }
 
